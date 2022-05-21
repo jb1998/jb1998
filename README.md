@@ -6,8 +6,11 @@ Credentials(at a glance):
 2. Published 8 research papers in the reputed journals while working with 4 research groups.
 3. Developed a mobile application to predict insulin intake for helping Type-1 diabetes patients. The app has 900,000+ hits in the database
 
-React JS | Java | Node JS | Python | Android
 
-• Developed web and mobile applications
 
-• Proficient in solving challenging tasks in an Agile and fast learning environment 
+<a href="https://www.linkedin.com/in/jb1998/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://leetcode.com/jatinbindra171998/"> 
+  <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
+</a>
