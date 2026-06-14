@@ -1,10 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=jb1998)
 
-A passionate Computer Science Engineer with the hunger for knowledge and challenging problems.
+Technical Lead with 5+ years of experience building AI-driven and cloud-native enterprise platforms across payments modernization, infrastructure engineering, and observability systems.
+
+Currently leading 3 AI-focused engineering initiatives within enterprise financial environments, driving technical direction across GenAI systems, backend infrastructure, multi-agent workflows, and cloud-native deployments.
+At IBM, I have led development of enterprise AI platforms and standardized engineering reporting, delivery governance, and technical execution across teams by designing internal tooling and operational frameworks from the ground up.
+
 Credentials(at a glance):
-1. Deployed 3 websites and 2 Android apps in Playstore.
-2. Published 8 research papers in the reputed journals while working with 4 research groups.
-3. Developed a mobile application to predict insulin intake for helping Type-1 diabetes patients. The app has 900,000+ hits in the database
+• 9 research publications with 250+ citations
+• Built and deployed products with millions of production interactions and billions of transactions flowing through the system
+• Recognized with Executive, Manager’s, and Delivery appreciation awards in IBM
+• Ranked among Nokia’s top global talent contributors
+
 
 
 
